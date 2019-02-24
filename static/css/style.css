@@ -1,0 +1,31 @@
+body{
+    font-family: 'PT Sans', sans-serif;
+    padding-top: 5%;
+    padding-left: 8%;
+}
+
+h1 {
+    line-height: 0.6;
+}
+    h1 span {
+        font-size: 0.6em;
+        font-weight: normal;
+    }
+    h1 a.red {
+        text-decoration: none;
+        color: black;
+    }
+    h1 a.red:hover {
+        text-decoration: none;
+        color: red;
+    }
+    h1 a.email {
+        font-size: 0.8em;
+    }
+
+a {
+    text-decoration: none;
+}
+    a:hover {
+        text-decoration: underline;
+}
